@@ -4,8 +4,10 @@ import ScoreCard from "./ScoreCard";
 
 const Live = () => {
   const [data, setData] = useState();
+  const [loading, setLoading] = useState();
 
   const getLiveMatches = async () => {
+    setLoading(true);
     try {
       const response = await axios.get(
         "https://free-cricbuzz-cricket-api.p.rapidapi.com/cricket-matches-live",
@@ -23,6 +25,7 @@ const Live = () => {
       console.log(liveMatchesData);
 
       setData(liveMatchesData);
+      setLoading(false);
     } catch (error) {
       console.error(error);
     }
@@ -31,6 +34,14 @@ const Live = () => {
   useEffect(() => {
     getLiveMatches();
   }, []);
+
+  if (loading) {
+    return (
+      <div className="flex items-center justify-center mt-[150px] ">
+        <div className="w-12 h-12 border-4 border-blue-500 border-t-transparent rounded-full animate-spin"></div>
+      </div>
+    );
+  }
 
   return (
     <>

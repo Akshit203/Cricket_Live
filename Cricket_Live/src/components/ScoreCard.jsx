@@ -2,9 +2,9 @@ const ScoreCard = (props) => {
   return (
     <>
       <div className="h-[225px] flex flex-col justify-around p-2 ">
-        <div className="bg-gray-300 p-2 font-medium text-sm">
+        {/* <div className="bg-gray-300 p-2 font-medium text-sm">
           {props.seriesName}
-        </div>
+        </div> */}
         <div>
           <div className="flex items-center">
             <div className="mr-2 font-medium text-base">{props.matchTitle}</div>

@@ -1,0 +1,1492 @@
+{
+    "status": "success",
+    "response": [
+        {
+            "seriesName": "ENGLAND TOUR OF INDIA, 2025",
+            "matchList": [
+                {
+                    "seriesId": "8402",
+                    "matchId": "100310",
+                    "matchTitle": "India vs England",
+                    "matchFormat": " 5th T20I",
+                    "matchVenue": "Mumbai, Wankhede Stadium",
+                    "matchDate": "Feb 02",
+                    "matchTime": " 07:00 PM LOCAL ",
+                    "teamOne": {
+                        "name": "ENG",
+                        "score": "97 (10.3 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "IND",
+                        "score": "247-9 (20 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "India won by 150 runs",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8402",
+                    "matchId": "100301",
+                    "matchTitle": "India vs England",
+                    "matchFormat": " 4th T20I",
+                    "matchVenue": "Pune, Maharashtra Cricket Associ",
+                    "matchDate": "Jan 31",
+                    "matchTime": " 07:00 PM LOCAL ",
+                    "teamOne": {
+                        "name": "ENG",
+                        "score": "166 (19.4 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "IND",
+                        "score": "181-9 (20 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "India won by 15 runs",
+                    "currentStatus": "complete"
+                }
+            ]
+        },
+        {
+            "seriesName": "WEST INDIES TOUR OF PAKISTAN, 2025",
+            "matchList": [
+                {
+                    "seriesId": "8504",
+                    "matchId": "101058",
+                    "matchTitle": "West Indies vs Pakistan",
+                    "matchFormat": " 2nd Test",
+                    "matchVenue": "Multan, Multan Cricket Stadium",
+                    "matchDate": "Jan 25-Jan 27",
+                    "matchTime": " 09:30 AM LOCAL ",
+                    "teamOne": {
+                        "name": "PAK",
+                        "score": "154 & 133",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "WI",
+                        "score": "163 & 244",
+                        "status": "win"
+                    },
+                    "matchStatus": "West Indies won by 120 runs",
+                    "currentStatus": "complete"
+                }
+            ]
+        },
+        {
+            "seriesName": "AUSTRALIA TOUR OF SRI LANKA, 2025",
+            "matchList": [
+                {
+                    "seriesId": "9181",
+                    "matchId": "109383",
+                    "matchTitle": "Australia vs Sri Lanka",
+                    "matchFormat": " 1st Test",
+                    "matchVenue": "Galle, Galle Intern",
+                    "matchDate": "Jan 29-Feb 01",
+                    "matchTime": " 10:00 AM LOCAL ",
+                    "teamOne": {
+                        "name": "SL",
+                        "score": "165 & 247 (f/o)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "AUS",
+                        "score": "654-6 d",
+                        "status": "win"
+                    },
+                    "matchStatus": "Australia won by an innings and 242 runs",
+                    "currentStatus": "complete"
+                }
+            ]
+        },
+        {
+            "seriesName": "MALTA T20I TRI-SERIES, 2025",
+            "matchList": [
+                {
+                    "seriesId": "9375",
+                    "matchId": "113685",
+                    "matchTitle": "Malta vs Austria",
+                    "matchFormat": " 2nd Match",
+                    "matchVenue": "Marsa, Marsa Sports Club",
+                    "matchDate": "Feb 03",
+                    "matchTime": " 02:00 PM LOCAL ",
+                    "teamOne": {
+                        "name": "MALT..",
+                        "score": "150-7 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "AUT",
+                        "score": "151-4 (18.3 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Austria won by 6 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "9375",
+                    "matchId": "113697",
+                    "matchTitle": "Malta vs Hungary",
+                    "matchFormat": " 4th Match",
+                    "matchVenue": "Marsa, Marsa Sports Club",
+                    "matchDate": "Feb 04",
+                    "matchTime": " 02:00 PM LOCAL ",
+                    "teamOne": {
+                        "name": "MALT..",
+                        "score": "177-7 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "HUN",
+                        "score": "180-2 (13 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Hungary won by 8 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "9375",
+                    "matchId": "113679",
+                    "matchTitle": "Hungary vs Malta",
+                    "matchFormat": " 1st Match",
+                    "matchVenue": "Marsa, Marsa Sports Club",
+                    "matchDate": "Feb 03",
+                    "matchTime": " 10:00 AM LOCAL ",
+                    "teamOne": {
+                        "name": "MALT..",
+                        "score": "30-1 (5 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "HUN",
+                        "score": "180-8 (20 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Hungary won by 8 runs (DLS Method)",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "9375",
+                    "matchId": "113694",
+                    "matchTitle": "Hungary vs Austria",
+                    "matchFormat": " 3rd Match",
+                    "matchVenue": "Marsa, Marsa Sports Club",
+                    "matchDate": "Feb 04",
+                    "matchTime": " 10:00 AM LOCAL ",
+                    "teamOne": {
+                        "name": "HUN",
+                        "score": "186-5 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "AUT",
+                        "score": "187-4 (18 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Austria won by 6 wkts",
+                    "currentStatus": "complete"
+                }
+            ]
+        },
+        {
+            "seriesName": "SA20, 2025",
+            "matchList": [
+                {
+                    "seriesId": "8873",
+                    "matchId": "106620",
+                    "matchTitle": "Paarl Royals vs Joburg Super Kings",
+                    "matchFormat": " 26th Match",
+                    "matchVenue": "Johannesburg, The Wanderers Stadium",
+                    "matchDate": "Jan 30",
+                    "matchTime": " 05:30 PM LOCAL ",
+                    "teamOne": {
+                        "name": "PR",
+                        "score": "150-9 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "JSK",
+                        "score": "151-3 (17.5 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Joburg Super Kings won by 7 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8873",
+                    "matchId": "106604",
+                    "matchTitle": "Sunrisers Eastern Cape vs MI Cape Town",
+                    "matchFormat": " 25th Match",
+                    "matchVenue": "Cape Town, Newlands",
+                    "matchDate": "Jan 29",
+                    "matchTime": " 05:30 PM LOCAL ",
+                    "teamOne": {
+                        "name": "SEC",
+                        "score": "107 (19.2 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "MICT",
+                        "score": "110-0 (11 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "MI Cape Town won by 10 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8873",
+                    "matchId": "106641",
+                    "matchTitle": "MI Cape Town vs Pretoria Capitals",
+                    "matchFormat": " 30th Match",
+                    "matchVenue": "Cape Town, Newlands",
+                    "matchDate": "Feb 02",
+                    "matchTime": " 03:30 PM LOCAL ",
+                    "teamOne": {
+                        "name": "PC",
+                        "score": "106 (14 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "MICT",
+                        "score": "201-5 (20 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "MI Cape Town won by 95 runs",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8873",
+                    "matchId": "106628",
+                    "matchTitle": "Sunrisers Eastern Cape vs Paarl Royals",
+                    "matchFormat": " 28th Match",
+                    "matchVenue": "Gqeberha, St George's Park",
+                    "matchDate": "Feb 01",
+                    "matchTime": " 01:00 PM LOCAL ",
+                    "teamOne": {
+                        "name": "PR",
+                        "score": "100 (18.2 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "SEC",
+                        "score": "148-8 (20 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Sunrisers Eastern Cape won by 48 runs",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8873",
+                    "matchId": "106625",
+                    "matchTitle": "MI Cape Town vs Pretoria Capitals",
+                    "matchFormat": " 27th Match",
+                    "matchVenue": "Centurion, SuperSport Park",
+                    "matchDate": "Jan 31",
+                    "matchTime": " 05:30 PM LOCAL ",
+                    "teamOne": {
+                        "name": "PC",
+                        "score": "195-8 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "MICT",
+                        "score": "222-3 (20 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "MI Cape Town won by 27 runs",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8873",
+                    "matchId": "106649",
+                    "matchTitle": "MI Cape Town vs Paarl Royals",
+                    "matchFormat": " Qualifier 1",
+                    "matchVenue": "Gqeberha, St George's Park",
+                    "matchDate": "Feb 04",
+                    "matchTime": " 05:30 PM LOCAL ",
+                    "teamOne": {
+                        "name": "PR",
+                        "score": "160 (19.4 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "MICT",
+                        "score": "199-4 (20 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "MI Cape Town won by 39 runs",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8873",
+                    "matchId": "106633",
+                    "matchTitle": "Durban Super Giants vs Joburg Super Kings",
+                    "matchFormat": " 29th Match",
+                    "matchVenue": "Johannesburg, The Wanderers Stadium",
+                    "matchDate": "Feb 01",
+                    "matchTime": " 05:30 PM LOCAL ",
+                    "teamOne": {
+                        "name": "JSK",
+                        "score": "135-9 (16 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "DSG",
+                        "score": "173-4 (20 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "DSG won by 11 runs (2nd Innings reduced to 16 ovs, DLS Target 147)",
+                    "currentStatus": "complete"
+                }
+            ]
+        },
+        {
+            "seriesName": "BANGLADESH PREMIER LEAGUE, 2024-25",
+            "matchList": [
+                {
+                    "seriesId": "9201",
+                    "matchId": "109973",
+                    "matchTitle": "Dhaka Capitals vs Khulna Tigers",
+                    "matchFormat": " 41st Match",
+                    "matchVenue": "Dhaka, Shere Bangla N",
+                    "matchDate": "Feb 01",
+                    "matchTime": " 01:30 PM LOCAL ",
+                    "teamOne": {
+                        "name": "DHCP",
+                        "score": "123-9 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "KLT",
+                        "score": "128-4 (16.5 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Khulna Tigers won by 6 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "9201",
+                    "matchId": "109981",
+                    "matchTitle": "Rangpur Riders vs Khulna Tigers",
+                    "matchFormat": " Eliminator",
+                    "matchVenue": "Dhaka, Shere Bangla N",
+                    "matchDate": "Feb 03",
+                    "matchTime": " 01:30 PM LOCAL ",
+                    "teamOne": {
+                        "name": "RGR",
+                        "score": "85 (16.5 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "KLT",
+                        "score": "89-1 (10.2 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Khulna Tigers won by 9 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "9201",
+                    "matchId": "109957",
+                    "matchTitle": "Dhaka Capitals vs Fortune Barishal",
+                    "matchFormat": " 38th Match",
+                    "matchVenue": "Dhaka, Shere Bangla N",
+                    "matchDate": "Jan 29",
+                    "matchTime": " 06:30 PM LOCAL ",
+                    "teamOne": {
+                        "name": "DHCP",
+                        "score": "73 (15.3 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "BRSA..",
+                        "score": "77-1 (6.3 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Fortune Barishal won by 9 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "9201",
+                    "matchId": "109949",
+                    "matchTitle": "Rangpur Riders vs Chittagong Kings",
+                    "matchFormat": " 37th Match",
+                    "matchVenue": "Dhaka, Shere Bangla N",
+                    "matchDate": "Jan 29",
+                    "matchTime": " 01:30 PM LOCAL ",
+                    "teamOne": {
+                        "name": "RGR",
+                        "score": "143-5 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "CK",
+                        "score": "148-5 (17.4 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Chittagong Kings won by 5 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "9201",
+                    "matchId": "109965",
+                    "matchTitle": "Khulna Tigers vs Rangpur Riders",
+                    "matchFormat": " 39th Match",
+                    "matchVenue": "Dhaka, Shere Bangla N",
+                    "matchDate": "Jan 30",
+                    "matchTime": " 01:30 PM LOCAL ",
+                    "teamOne": {
+                        "name": "RGR",
+                        "score": "174-9 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "KLT",
+                        "score": "220-4 (20 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Khulna Tigers won by 45 runs",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "9201",
+                    "matchId": "109989",
+                    "matchTitle": "Chittagong Kings vs Fortune Barishal",
+                    "matchFormat": " 1st Qualifier",
+                    "matchVenue": "Dhaka, Shere Bangla N",
+                    "matchDate": "Feb 03",
+                    "matchTime": " 06:30 PM LOCAL ",
+                    "teamOne": {
+                        "name": "CK",
+                        "score": "149-9 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "BRSA..",
+                        "score": "150-1 (17.2 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Fortune Barishal won by 9 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "9201",
+                    "matchId": "109977",
+                    "matchTitle": "Chittagong Kings vs Fortune Barishal",
+                    "matchFormat": " 42nd Match",
+                    "matchVenue": "Dhaka, Shere Bangla N",
+                    "matchDate": "Feb 01",
+                    "matchTime": " 06:30 PM LOCAL ",
+                    "teamOne": {
+                        "name": "BRSA..",
+                        "score": "182-7 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "CK",
+                        "score": "206-4 (20 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Chittagong Kings won by 24 runs",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "9201",
+                    "matchId": "109969",
+                    "matchTitle": "Chittagong Kings vs Sylhet Strikers",
+                    "matchFormat": " 40th Match",
+                    "matchVenue": "Dhaka, Shere Bangla N",
+                    "matchDate": "Jan 30",
+                    "matchTime": " 06:30 PM LOCAL ",
+                    "teamOne": {
+                        "name": "SYST",
+                        "score": "100 (15.2 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "CK",
+                        "score": "196-8 (20 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Chittagong Kings won by 96 runs",
+                    "currentStatus": "complete"
+                }
+            ]
+        },
+        {
+            "seriesName": "SUPER SMASH 2024-25",
+            "matchList": [
+                {
+                    "seriesId": "8979",
+                    "matchId": "108067",
+                    "matchTitle": "Canterbury vs Central Districts",
+                    "matchFormat": " Final",
+                    "matchVenue": "Wellington, Basin Reserve",
+                    "matchDate": "Feb 02",
+                    "matchTime": " 04:25 PM LOCAL ",
+                    "teamOne": {
+                        "name": "CNTB..",
+                        "score": "135-8 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "CD",
+                        "score": "136-4 (17.2 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Central Districts won by 6 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8979",
+                    "matchId": "108065",
+                    "matchTitle": "Northern Knights vs Canterbury",
+                    "matchFormat": " Eliminator",
+                    "matchVenue": "Wellington, Basin Reserve",
+                    "matchDate": "Feb 01",
+                    "matchTime": " 04:25 PM LOCAL ",
+                    "teamOne": {
+                        "name": "NK",
+                        "score": "110-9 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "CNTB..",
+                        "score": "111-3 (13.1 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Canterbury won by 7 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8979",
+                    "matchId": "108059",
+                    "matchTitle": "Wellington vs Northern Knights",
+                    "matchFormat": " 30th Match",
+                    "matchVenue": "Wellington, Basin Reserve",
+                    "matchDate": "Jan 30",
+                    "matchTime": " 04:25 PM LOCAL ",
+                    "teamOne": {
+                        "name": "",
+                        "score": "",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "",
+                        "score": "",
+                        "status": "win"
+                    },
+                    "matchStatus": "Match abandoned due to rain (no toss)",
+                    "currentStatus": "complete"
+                }
+            ]
+        },
+        {
+            "seriesName": "INTERNATIONAL LEAGUE T20, 2025",
+            "matchList": [
+                {
+                    "seriesId": "9261",
+                    "matchId": "111273",
+                    "matchTitle": "Dubai Capitals vs Abu Dhabi Knight Riders",
+                    "matchFormat": " 29th Match",
+                    "matchVenue": "Dubai, Dubai Intern",
+                    "matchDate": "Feb 02",
+                    "matchTime": " 06:00 PM LOCAL ",
+                    "teamOne": {
+                        "name": "ADKR",
+                        "score": "191-5 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "DCP",
+                        "score": "217-4 (20 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Dubai Capitals won by 26 runs",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "9261",
+                    "matchId": "111245",
+                    "matchTitle": "Abu Dhabi Knight Riders vs Sharjah Warriorz",
+                    "matchFormat": " 25th Match",
+                    "matchVenue": "Sharjah, Sharjah Cricket Stadium",
+                    "matchDate": "Jan 30",
+                    "matchTime": " 06:30 PM LOCAL ",
+                    "teamOne": {
+                        "name": "ADKR",
+                        "score": "161-8 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "SW",
+                        "score": "162-6 (19 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Sharjah Warriorz won by 4 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "9261",
+                    "matchId": "111253",
+                    "matchTitle": "Gulf Giants vs MI Emirates",
+                    "matchFormat": " 26th Match",
+                    "matchVenue": "Dubai, Dubai Intern",
+                    "matchDate": "Jan 31",
+                    "matchTime": " 06:30 PM LOCAL ",
+                    "teamOne": {
+                        "name": "GG",
+                        "score": "173-6 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "MIE",
+                        "score": "174-5 (19.1 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "MI Emirates won by 5 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "9261",
+                    "matchId": "111241",
+                    "matchTitle": "Gulf Giants vs Desert Vipers",
+                    "matchFormat": " 24th Match",
+                    "matchVenue": "Dubai, Dubai Intern",
+                    "matchDate": "Jan 29",
+                    "matchTime": " 06:30 PM LOCAL ",
+                    "teamOne": {
+                        "name": "GG",
+                        "score": "129-8 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "DV",
+                        "score": "130-5 (19 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Desert Vipers won by 5 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "9261",
+                    "matchId": "111277",
+                    "matchTitle": "Desert Vipers vs Dubai Capitals",
+                    "matchFormat": " 30th Match",
+                    "matchVenue": "Sharjah, Sharjah Cricket Stadium",
+                    "matchDate": "Feb 03",
+                    "matchTime": " 06:30 PM LOCAL ",
+                    "teamOne": {
+                        "name": "DV",
+                        "score": "137 (19.4 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "DCP",
+                        "score": "138-1 (17.1 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Dubai Capitals won by 9 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "9261",
+                    "matchId": "111261",
+                    "matchTitle": "Abu Dhabi Knight Riders vs Gulf Giants",
+                    "matchFormat": " 27th Match",
+                    "matchVenue": "Abu Dhabi, Sheikh Zayed Stadium",
+                    "matchDate": "Feb 01",
+                    "matchTime": " 06:00 PM LOCAL ",
+                    "teamOne": {
+                        "name": "ADKR",
+                        "score": "123-7 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "GG",
+                        "score": "124-3 (17.5 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Gulf Giants won by 7 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "9261",
+                    "matchId": "111265",
+                    "matchTitle": "MI Emirates vs Sharjah Warriorz",
+                    "matchFormat": " 28th Match",
+                    "matchVenue": "Abu Dhabi, Sheikh Zayed Stadium",
+                    "matchDate": "Feb 02",
+                    "matchTime": " 02:00 PM LOCAL ",
+                    "teamOne": {
+                        "name": "MIE",
+                        "score": "173-5 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "SW",
+                        "score": "176-2 (17.2 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Sharjah Warriorz won by 8 wkts",
+                    "currentStatus": "complete"
+                }
+            ]
+        },
+        {
+            "seriesName": "RANJI TROPHY ELITE 2024-25",
+            "matchList": [
+                {
+                    "seriesId": "8339",
+                    "matchId": "98015",
+                    "matchTitle": "Madhya Pradesh vs Uttar Pradesh",
+                    "matchFormat": " Elite Group C",
+                    "matchVenue": "Indore, Holkar Cricket Stadium",
+                    "matchDate": "Jan 30-Feb 02",
+                    "matchTime": " 09:30 AM LOCAL ",
+                    "teamOne": {
+                        "name": "",
+                        "score": "",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "MPUP",
+                        "score": "670-7 d & 28-0611",
+                        "status": "win"
+                    },
+                    "matchStatus": "Match drawn",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8339",
+                    "matchId": "97943",
+                    "matchTitle": "Tripura vs Maharashtra",
+                    "matchFormat": " Elite Group A",
+                    "matchVenue": "Solapur, Indira Gandhi Stadium, Park Maidan",
+                    "matchDate": "Jan 30-Feb 02",
+                    "matchTime": " 09:30 AM LOCAL ",
+                    "teamOne": {
+                        "name": "",
+                        "score": "",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "TRIMAH",
+                        "score": "270 & 310-5418",
+                        "status": "win"
+                    },
+                    "matchStatus": "Match drawn",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8339",
+                    "matchId": "98022",
+                    "matchTitle": "Saurashtra vs Assam",
+                    "matchFormat": " Elite Group D",
+                    "matchVenue": "Rajkot, Niranjan Shah Stadium",
+                    "matchDate": "Jan 30-Feb 01",
+                    "matchTime": " 09:30 AM LOCAL ",
+                    "teamOne": {
+                        "name": "ASM",
+                        "score": "164 & 166 (f/o)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "SAUR",
+                        "score": "474",
+                        "status": "win"
+                    },
+                    "matchStatus": "Saurashtra won by an innings and 144 runs",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8339",
+                    "matchId": "97963",
+                    "matchTitle": "Himachal Pradesh vs Gujarat",
+                    "matchFormat": " Elite Group B",
+                    "matchVenue": "Ahmedabad, Narendra Modi Stadium B Ground",
+                    "matchDate": "Jan 30-Feb 01",
+                    "matchTime": " 09:30 AM LOCAL ",
+                    "teamOne": {
+                        "name": "HP",
+                        "score": "215 & 175",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "GUJ",
+                        "score": "247 & 145-1",
+                        "status": "win"
+                    },
+                    "matchStatus": "Gujarat won by 9 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8339",
+                    "matchId": "97999",
+                    "matchTitle": "Karnataka vs Haryana",
+                    "matchFormat": " Elite Group C",
+                    "matchVenue": "Bengaluru, M.Chinnaswamy Stadium",
+                    "matchDate": "Jan 30-Feb 02",
+                    "matchTime": " 09:30 AM LOCAL ",
+                    "teamOne": {
+                        "name": "",
+                        "score": "",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "KARHAR",
+                        "score": "304 & 295-8450",
+                        "status": "win"
+                    },
+                    "matchStatus": "Match drawn",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8339",
+                    "matchId": "97990",
+                    "matchTitle": "Rajasthan vs Andhra",
+                    "matchFormat": " Elite Group B",
+                    "matchVenue": "Vizianagaram, Dr PVG Raju ACA Sports Complex",
+                    "matchDate": "Jan 30-Feb 01",
+                    "matchTime": " 09:30 AM LOCAL ",
+                    "teamOne": {
+                        "name": "RAJ",
+                        "score": "258 & 114",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "AP",
+                        "score": "220 & 157-4",
+                        "status": "win"
+                    },
+                    "matchStatus": "Andhra won by 6 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8339",
+                    "matchId": "97972",
+                    "matchTitle": "Vidarbha vs Hyderabad",
+                    "matchFormat": " Elite Group B",
+                    "matchVenue": "Nagpur, Vidarbha Cricket Associ",
+                    "matchDate": "Jan 30-Feb 02",
+                    "matchTime": " 09:30 AM LOCAL ",
+                    "teamOne": {
+                        "name": "HYD",
+                        "score": "326 & 161",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "VID",
+                        "score": "190 & 355",
+                        "status": "win"
+                    },
+                    "matchStatus": "Vidarbha won by 58 runs",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8339",
+                    "matchId": "98026",
+                    "matchTitle": "Chandigarh vs Chhattisgarh",
+                    "matchFormat": " Elite Group D",
+                    "matchVenue": "Raipur, Shaheed Veer Narayan Singh Intern",
+                    "matchDate": "Jan 30-Feb 02",
+                    "matchTime": " 09:15 AM LOCAL ",
+                    "teamOne": {
+                        "name": "CG",
+                        "score": "406 & 122",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "CDG",
+                        "score": "283 & 299",
+                        "status": "win"
+                    },
+                    "matchStatus": "Chandigarh won by 54 runs",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8339",
+                    "matchId": "97981",
+                    "matchTitle": "Puducherry vs Uttarakhand",
+                    "matchFormat": " Elite Group B",
+                    "matchVenue": "Puducherry, Cricket Associ",
+                    "matchDate": "Jan 30-Feb 02",
+                    "matchTime": " 09:30 AM LOCAL ",
+                    "teamOne": {
+                        "name": "",
+                        "score": "",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "PDCUTK",
+                        "score": "427 & 201-8273",
+                        "status": "win"
+                    },
+                    "matchStatus": "Match drawn",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8339",
+                    "matchId": "97945",
+                    "matchTitle": "Meghalaya vs Mumbai",
+                    "matchFormat": " Elite Group A",
+                    "matchVenue": "Mumbai, Sharad Pawar Cricket Academy BKC",
+                    "matchDate": "Jan 30-Feb 01",
+                    "matchTime": " 09:30 AM LOCAL ",
+                    "teamOne": {
+                        "name": "MGLY",
+                        "score": "86 & 129",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "MUM",
+                        "score": "671-7 d",
+                        "status": "win"
+                    },
+                    "matchStatus": "Mumbai won by an innings and 456 runs",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8339",
+                    "matchId": "98044",
+                    "matchTitle": "Jharkhand vs Tamil Nadu",
+                    "matchFormat": " Elite Group D",
+                    "matchVenue": "Jamshedpur, Keenan Stadium",
+                    "matchDate": "Jan 30-Feb 01",
+                    "matchTime": " 09:00 AM LOCAL ",
+                    "teamOne": {
+                        "name": "TN",
+                        "score": "106 & 189",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "JHKD",
+                        "score": "185 & 154",
+                        "status": "win"
+                    },
+                    "matchStatus": "Jharkhand won by 44 runs",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8339",
+                    "matchId": "97934",
+                    "matchTitle": "Jammu and Kashmir vs Baroda",
+                    "matchFormat": " Elite Group A",
+                    "matchVenue": "Vadodara, Reliance Stadium",
+                    "matchDate": "Jan 30-Feb 02",
+                    "matchTime": " 09:30 AM LOCAL ",
+                    "teamOne": {
+                        "name": "BRD",
+                        "score": "166 & 182",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "JK",
+                        "score": "246 & 284",
+                        "status": "win"
+                    },
+                    "matchStatus": "Jammu and Kashmir won by 182 runs",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8339",
+                    "matchId": "97954",
+                    "matchTitle": "Odisha vs Services",
+                    "matchFormat": " Elite Group A",
+                    "matchVenue": "Cuttack, DRIEMS Ground",
+                    "matchDate": "Jan 30-Feb 02",
+                    "matchTime": " 09:00 AM LOCAL ",
+                    "teamOne": {
+                        "name": "ODSA",
+                        "score": "180 & 394",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "SER",
+                        "score": "199 & 376-0",
+                        "status": "win"
+                    },
+                    "matchStatus": "Services won by 10 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8339",
+                    "matchId": "98013",
+                    "matchTitle": "Kerala vs Bihar",
+                    "matchFormat": " Elite Group C",
+                    "matchVenue": "Thiruvananthapuram, Greenfield Intern",
+                    "matchDate": "Jan 30-Jan 31",
+                    "matchTime": " 09:30 AM LOCAL ",
+                    "teamOne": {
+                        "name": "BIH",
+                        "score": "64 & 118 (f/o)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "KER",
+                        "score": "351",
+                        "status": "win"
+                    },
+                    "matchStatus": "Kerala won by an innings and 169 runs",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8339",
+                    "matchId": "98035",
+                    "matchTitle": "Railways vs Delhi",
+                    "matchFormat": " Elite Group D",
+                    "matchVenue": "Delhi, Arun Jaitley Stadium",
+                    "matchDate": "Jan 30-Feb 01",
+                    "matchTime": " 09:30 AM LOCAL ",
+                    "teamOne": {
+                        "name": "RLYS",
+                        "score": "241 & 114",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "DEL",
+                        "score": "374",
+                        "status": "win"
+                    },
+                    "matchStatus": "Delhi won by an innings and 19 runs",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8339",
+                    "matchId": "98006",
+                    "matchTitle": "Punjab vs Bengal",
+                    "matchFormat": " Elite Group C",
+                    "matchVenue": "Kolk",
+                    "matchDate": "Jan 30-Feb 01",
+                    "matchTime": " 09:00 AM LOCAL ",
+                    "teamOne": {
+                        "name": "PUN",
+                        "score": "191 & 139",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "BEN",
+                        "score": "343",
+                        "status": "win"
+                    },
+                    "matchStatus": "Bengal won by an innings and 13 runs",
+                    "currentStatus": "complete"
+                }
+            ]
+        },
+        {
+            "seriesName": "AUSTRALIA DOMESTIC ONE-DAY CUP 2024-25",
+            "matchList": [
+                {
+                    "seriesId": "8616",
+                    "matchId": "103215",
+                    "matchTitle": "Tasmania vs New South Wales",
+                    "matchFormat": " 15th Match",
+                    "matchVenue": "Hobart, Bellerive Oval",
+                    "matchDate": "Feb 05",
+                    "matchTime": " 11:05 AM LOCAL ",
+                    "teamOne": {
+                        "name": "TAS",
+                        "score": "205 (47.1 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "NSW",
+                        "score": "209-3 (38.3 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "New South Wales won by 7 wkts",
+                    "currentStatus": "complete"
+                }
+            ]
+        },
+        {
+            "seriesName": "ENGLAND UNDER 19 TOUR OF SOUTH AFRICA, 2025",
+            "matchList": [
+                {
+                    "seriesId": "9333",
+                    "matchId": "112542",
+                    "matchTitle": "England U19 vs South Africa U19",
+                    "matchFormat": " 1st unofficial Test",
+                    "matchVenue": "Stellenbosch, Stellenbosch University 1",
+                    "matchDate": "Jan 26-Jan 29",
+                    "matchTime": " 10:00 AM LOCAL ",
+                    "teamOne": {
+                        "name": "",
+                        "score": "",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "ENGU..RSAU..",
+                        "score": "299 & 336-9 d319 & 295-9",
+                        "status": "win"
+                    },
+                    "matchStatus": "Match drawn",
+                    "currentStatus": "complete"
+                }
+            ]
+        },
+        {
+            "seriesName": "CSA FOUR-DAY SERIES DIVISION TWO 2024-25",
+            "matchList": [
+                {
+                    "seriesId": "8714",
+                    "matchId": "104340",
+                    "matchTitle": "Border vs Limpopo",
+                    "matchFormat": " 18th Match",
+                    "matchVenue": "East London, Buffalo Park",
+                    "matchDate": "Jan 30-Feb 02",
+                    "matchTime": " 10:00 AM LOCAL ",
+                    "teamOne": {
+                        "name": "LIMP..",
+                        "score": "153 & 211",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "BOR",
+                        "score": "331 & 182",
+                        "status": "win"
+                    },
+                    "matchStatus": "Border won by 149 runs",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8714",
+                    "matchId": "104412",
+                    "matchTitle": "KwaZulu-Natal Inland vs Mpumalanga Rhinos",
+                    "matchFormat": " 17th Match",
+                    "matchVenue": "Pietermaritzburg, City Oval",
+                    "matchDate": "Jan 30-Feb 02",
+                    "matchTime": " 10:00 AM LOCAL ",
+                    "teamOne": {
+                        "name": "",
+                        "score": "",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "KZNI..MPR",
+                        "score": "243 & 146-1472-6 d",
+                        "status": "win"
+                    },
+                    "matchStatus": "Match drawn",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8714",
+                    "matchId": "104404",
+                    "matchTitle": "South Western Districts vs Northern Cape",
+                    "matchFormat": " 16th Match",
+                    "matchVenue": "Oudtshoorn, Recre",
+                    "matchDate": "Jan 30-Feb 02",
+                    "matchTime": " 10:00 AM LOCAL ",
+                    "teamOne": {
+                        "name": "SWD",
+                        "score": "341 & 201",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "NCAP..",
+                        "score": "370 & 175-6",
+                        "status": "win"
+                    },
+                    "matchStatus": "Northern Cape won by 4 wkts",
+                    "currentStatus": "complete"
+                }
+            ]
+        },
+        {
+            "seriesName": "ICC UNDER 19 WOMENS T20 WORLD CUP 2025",
+            "matchList": [
+                {
+                    "seriesId": "8754",
+                    "matchId": "105540",
+                    "matchTitle": "South Africa Women U19 vs India Women U19",
+                    "matchFormat": " Final",
+                    "matchVenue": "Kuala Lumpur, Bayuemas Oval",
+                    "matchDate": "Feb 02",
+                    "matchTime": " 02:30 PM LOCAL ",
+                    "teamOne": {
+                        "name": "RSAW..",
+                        "score": "82 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "INDW..",
+                        "score": "84-1 (11.2 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "India Women U19 won by 9 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8754",
+                    "matchId": "105530",
+                    "matchTitle": "Australia Women U19 vs South Africa Women U19",
+                    "matchFormat": " Semi-Final 1",
+                    "matchVenue": "Kuala Lumpur, Bayuemas Oval",
+                    "matchDate": "Jan 31",
+                    "matchTime": " 10:30 AM LOCAL ",
+                    "teamOne": {
+                        "name": "AUSW..",
+                        "score": "105-8 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "RSAW..",
+                        "score": "106-5 (18.1 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "South Africa Women U19 won by 5 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8754",
+                    "matchId": "105538",
+                    "matchTitle": "England Women U19 vs India Women U19",
+                    "matchFormat": " Semi-Final 2",
+                    "matchVenue": "Kuala Lumpur, Bayuemas Oval",
+                    "matchDate": "Jan 31",
+                    "matchTime": " 02:30 PM LOCAL ",
+                    "teamOne": {
+                        "name": "ENGW..",
+                        "score": "113-8 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "INDW..",
+                        "score": "117-1 (15 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "India Women U19 won by 9 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "8754",
+                    "matchId": "105522",
+                    "matchTitle": "Sri Lanka Women U19 vs Australia Women U19",
+                    "matchFormat": " 12th Match, Super Six Group 1",
+                    "matchVenue": "Bangi, Malaysia, UKM-YSD Cricket Oval",
+                    "matchDate": "Jan 29",
+                    "matchTime": " 02:30 PM LOCAL ",
+                    "teamOne": {
+                        "name": "AUSW..",
+                        "score": "87-8 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "SLWU..",
+                        "score": "99-8 (20 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Sri Lanka Women U19 won by 12 runs",
+                    "currentStatus": "complete"
+                }
+            ]
+        },
+        {
+            "seriesName": "BANGLADESH WOMEN TOUR OF WEST INDIES, 2025",
+            "matchList": [
+                {
+                    "seriesId": "9339",
+                    "matchId": "112599",
+                    "matchTitle": "Bangladesh Women vs West Indies Women",
+                    "matchFormat": " 3rd T20I",
+                    "matchVenue": "Basseterre, St Kitts, Warner Park",
+                    "matchDate": "Jan 31",
+                    "matchTime": " 06:00 PM LOCAL ",
+                    "teamOne": {
+                        "name": "BANW",
+                        "score": "104-8 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "WIW",
+                        "score": "105-5 (18.3 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "West Indies Women won by 5 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "9339",
+                    "matchId": "112590",
+                    "matchTitle": "West Indies Women vs Bangladesh Women",
+                    "matchFormat": " 2nd T20I",
+                    "matchVenue": "Basseterre, St Kitts, Warner Park",
+                    "matchDate": "Jan 29",
+                    "matchTime": " 06:00 PM LOCAL ",
+                    "teamOne": {
+                        "name": "BANW",
+                        "score": "95-9 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "WIW",
+                        "score": "201-6 (20 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "West Indies Women won by 106 runs",
+                    "currentStatus": "complete"
+                }
+            ]
+        },
+        {
+            "seriesName": "WOMENS ASHES, 2025",
+            "matchList": [
+                {
+                    "seriesId": "7763",
+                    "matchId": "91904",
+                    "matchTitle": "England Women vs Australia Women",
+                    "matchFormat": " Only Test",
+                    "matchVenue": "Melbourne, Melbourne Cricket Ground",
+                    "matchDate": "Jan 30-Feb 01",
+                    "matchTime": " 02:30 PM LOCAL ",
+                    "teamOne": {
+                        "name": "ENGW",
+                        "score": "170 & 148",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "AUSW",
+                        "score": "440",
+                        "status": "win"
+                    },
+                    "matchStatus": "Australia Women won by an innings and 122 runs",
+                    "currentStatus": "complete"
+                }
+            ]
+        },
+        {
+            "seriesName": "NEPAL WOMENS T20I TRI-SERIES, 2025",
+            "matchList": [
+                {
+                    "seriesId": "9348",
+                    "matchId": "112650",
+                    "matchTitle": "Thailand Women vs Nepal Women",
+                    "matchFormat": " 6th Match",
+                    "matchVenue": "Kirtipur, Tribhuvan University Intern",
+                    "matchDate": "Feb 04",
+                    "matchTime": " 12:15 PM LOCAL ",
+                    "teamOne": {
+                        "name": "NEPW",
+                        "score": "101-8 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "THAI..",
+                        "score": "106-6 (20 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Thailand Women won by 5 runs",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "9348",
+                    "matchId": "112617",
+                    "matchTitle": "Netherlands Women vs Thailand Women",
+                    "matchFormat": " 2nd Match",
+                    "matchVenue": "Kirtipur, Tribhuvan University Intern",
+                    "matchDate": "Jan 31",
+                    "matchTime": " 12:15 PM LOCAL ",
+                    "teamOne": {
+                        "name": "NEDW",
+                        "score": "122-6 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "THAI..",
+                        "score": "125-2 (18 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Thailand Women won by 8 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "9348",
+                    "matchId": "112608",
+                    "matchTitle": "Netherlands Women vs Nepal Women",
+                    "matchFormat": " 1st Match",
+                    "matchVenue": "Kirtipur, Tribhuvan University Intern",
+                    "matchDate": "Jan 30",
+                    "matchTime": " 12:15 PM LOCAL ",
+                    "teamOne": {
+                        "name": "NEPW",
+                        "score": "137-7 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "NEDW",
+                        "score": "157-4 (20 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Netherlands Women won by 20 runs",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "9348",
+                    "matchId": "112626",
+                    "matchTitle": "Nepal Women vs Thailand Women",
+                    "matchFormat": " 3rd Match",
+                    "matchVenue": "Kirtipur, Tribhuvan University Intern",
+                    "matchDate": "Feb 01",
+                    "matchTime": " 12:15 PM LOCAL ",
+                    "teamOne": {
+                        "name": "NEPW",
+                        "score": "101-9 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "THAI..",
+                        "score": "102-6 (19 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Thailand Women won by 4 wkts",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "9348",
+                    "matchId": "112635",
+                    "matchTitle": "Netherlands Women vs Nepal Women",
+                    "matchFormat": " 4th Match",
+                    "matchVenue": "Kirtipur, Tribhuvan University Intern",
+                    "matchDate": "Feb 02",
+                    "matchTime": " 12:15 PM LOCAL ",
+                    "teamOne": {
+                        "name": "NEPW",
+                        "score": "125-8 (20 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "NEDW",
+                        "score": "140-9 (20 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Netherlands Women won by 15 runs",
+                    "currentStatus": "complete"
+                },
+                {
+                    "seriesId": "9348",
+                    "matchId": "112641",
+                    "matchTitle": "Thailand Women vs Netherlands Women",
+                    "matchFormat": " 5th Match",
+                    "matchVenue": "Kirtipur, Tribhuvan University Intern",
+                    "matchDate": "Feb 03",
+                    "matchTime": " 12:15 PM LOCAL ",
+                    "teamOne": {
+                        "name": "NEDW",
+                        "score": "69 (15.5 Ovs)",
+                        "status": "loss"
+                    },
+                    "teamTwo": {
+                        "name": "THAI..",
+                        "score": "86 (19.5 Ovs)",
+                        "status": "win"
+                    },
+                    "matchStatus": "Thailand Women won by 17 runs",
+                    "currentStatus": "complete"
+                }
+            ]
+        }
+    ]
+}
