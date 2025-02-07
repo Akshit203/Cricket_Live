@@ -22,7 +22,7 @@ const Live = () => {
 
       const liveMatchesData = response.data;
 
-      console.log(liveMatchesData);
+      // console.log(liveMatchesData);
 
       setData(liveMatchesData);
       setLoading(false);
@@ -49,7 +49,7 @@ const Live = () => {
         {data?.response.map((match) => {
           return (
             <ScoreCard
-              key={match.matchList.seriesId}
+              key={match.matchId}
               seriesName={match.seriesName}
               matchTitle={match.matchList[0].matchTitle}
               matchFormat={match.matchList[0].matchFormat}

@@ -22,7 +22,7 @@ const Recent = () => {
 
       const recentMatchesData = response.data;
 
-      console.log(recentMatchesData);
+      // console.log(recentMatchesData);
 
       setData(recentMatchesData);
       setLoading(false);
@@ -55,6 +55,7 @@ const Recent = () => {
               {series?.matchList.map((match) => {
                 return (
                   <ScoreCard
+                    key={match.matchId}
                     matchTitle={match.matchTitle}
                     matchFormat={match.matchFormat}
                     matchDate={match.matchDate}

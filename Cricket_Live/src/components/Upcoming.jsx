@@ -23,7 +23,7 @@ const Upcoming = () => {
 
       const upcomingMatchesData = response.data;
 
-      console.log(upcomingMatchesData);
+      // console.log(upcomingMatchesData);
 
       setData(upcomingMatchesData);
       setLoading(false);
@@ -56,6 +56,7 @@ const Upcoming = () => {
               {series?.matchList.map((match) => {
                 return (
                   <UpComingScoreCard
+                    key={match.matchId}
                     matchTitle={match.matchTitle}
                     matchFormat={match.matchFormat}
                     matchDate={match.matchDate}
