@@ -1,14 +1,17 @@
 import axios from "axios";
-import { useEffect, useState } from "react";
 
 import UpComingScoreCard from "./UpComingScoreCard";
 
+import { useQuery } from "@tanstack/react-query";
+
 const Upcoming = () => {
-  const [data, setData] = useState();
-  const [loading, setLoading] = useState();
+  const { isPending, error, data } = useQuery({
+    queryKey: ["upcomingMatches"],
+    queryFn: () => getUpcomingMatches(),
+    staleTime: 120 * 60 * 1000, // Applying caching for 2 hours
+  });
 
   const getUpcomingMatches = async () => {
-    setLoading(true);
     try {
       const response = await axios.get(
         "https://free-cricbuzz-cricket-api.p.rapidapi.com/cricket-matches-upcoming",
@@ -23,20 +26,15 @@ const Upcoming = () => {
 
       const upcomingMatchesData = response.data;
 
-      // console.log(upcomingMatchesData);
+      console.log(upcomingMatchesData);
 
-      setData(upcomingMatchesData);
-      setLoading(false);
+      return upcomingMatchesData;
     } catch (error) {
       console.error(error);
     }
   };
 
-  useEffect(() => {
-    getUpcomingMatches();
-  }, []);
-
-  if (loading) {
+  if (isPending) {
     return (
       <div className="flex items-center justify-center mt-[150px] ">
         <div className="w-12 h-12 border-4 border-blue-500 border-t-transparent rounded-full animate-spin"></div>

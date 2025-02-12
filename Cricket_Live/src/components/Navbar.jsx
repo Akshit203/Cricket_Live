@@ -15,7 +15,10 @@ const Navbar = () => {
           <Link to="/teams">
             <div className="mr-4 cursor-pointer">Teams</div>
           </Link>
-          {/* <div className="mr-4 cursor-pointer">Ranking</div> */}
+
+          <Link to="/rankings">
+            <div className="mr-4 cursor-pointer">Rankings</div>
+          </Link>
         </div>
       </div>
     </>
