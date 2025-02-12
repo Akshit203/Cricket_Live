@@ -1,13 +1,17 @@
 import axios from "axios";
-import { useEffect, useState } from "react";
+
 import ScoreCard from "./ScoreCard";
 
+import { useQuery } from "@tanstack/react-query";
+
 const Recent = () => {
-  const [data, setData] = useState();
-  const [loading, setLoading] = useState();
+  const { isPending, error, data } = useQuery({
+    queryKey: ["recentMatches"],
+    queryFn: () => getRecentMatches(),
+    staleTime: 120 * 60 * 1000, // Applying caching for 2 hours
+  });
 
   const getRecentMatches = async () => {
-    setLoading(true);
     try {
       const response = await axios.get(
         "https://free-cricbuzz-cricket-api.p.rapidapi.com/cricket-matches-recent",
@@ -22,20 +26,15 @@ const Recent = () => {
 
       const recentMatchesData = response.data;
 
-      // console.log(recentMatchesData);
+      console.log(recentMatchesData);
 
-      setData(recentMatchesData);
-      setLoading(false);
+      return recentMatchesData;
     } catch (error) {
       console.error(error);
     }
   };
 
-  useEffect(() => {
-    getRecentMatches();
-  }, []);
-
-  if (loading) {
+  if (isPending) {
     return (
       <div className="flex items-center justify-center mt-[150px] ">
         <div className="w-12 h-12 border-4 border-blue-500 border-t-transparent rounded-full animate-spin"></div>
